@@ -1,16 +1,14 @@
 ### Hi there 👋
+### Hi there. I'm Mohamad Mahdi latifi 👋
+### Connect with me:
+<div>
+  <a href="https://www.linkedin.com/in/mohamad-mahdi-latifi-0b7aa0247/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" **alt="linkedin" width="40" height="40"/>
 
-<!--
-**MML0/MML0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div> 
