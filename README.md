@@ -8,7 +8,7 @@
 
 > [test page](http://mml.freehost.io/)
 </div>  
-<a href="mailto:hi@mml-dev.ir?subject=Hi">Say Hi</a> at hi@mml-dev.ir
+Say Hi at <a href="mailto:hi@mml-dev.ir?subject=Hi">hi@mml-dev.ir</a>
 
 ### Languages and Tools:
 <div>
