@@ -24,19 +24,9 @@ Say Hi at
 
 ### Languages and Tools:
 <div>
-  <!-- Python -->
-  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg"
-       title="Python" alt="Python" width="40" height="40"/>
-
-  <!-- JavaScript -->
-  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"
-       title="JavaScript" alt="JavaScript" width="40" height="40"/>
-
-  <!-- PHP -->
-  <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg"
-       title="PHP" alt="PHP" width="40" height="40"/>
-
-  <!-- TouchDesigner (official blue lifebuoy logo) -->
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/touchdesigner.png"
-       title="TouchDesigner" alt="TouchDesigner" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" width="40"/> &nbsp;
+  <img src="https://patchstorage.com/wp-content/uploads/2021/02/TouchDesigner_logo.png" width="40"/>
 </div>
+
