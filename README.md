@@ -1,130 +1,41 @@
-# MML — Engineering Beyond Boundaries
+# MML — Mohamad Mahdi Latifi
 
-**Electrical Engineering · Creative Technology · AI · Embedded Systems**
+**Electrical Engineering · AI · Embedded Systems · Creative Technology**
 
-I build systems that connect the digital and physical worlds — from embedded electronics and real-time sensing to interactive installations, intelligent software, and experimental hardware.
+I build across hardware and software — from flight controllers and LiDAR tracking to AI experiments, interactive visuals, and web applications.
 
-I enjoy taking ideas from a schematic or algorithm all the way to a working prototype.
+<p align="left">
+  <a href="https://mml-dev.ir"><img src="https://img.shields.io/badge/Portfolio-mml--dev.ir-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/mohamad-mahdi-latifi-0b7aa0247/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/mml_0"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:hi@mml-dev.ir"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-[**Portfolio →**](https://mml-dev.ir/) · [LinkedIn](https://www.linkedin.com/in/mohamad-mahdi-latifi-0b7aa0247/) · [Telegram](https://t.me/mml_0) · [Email](mailto:hi@mml-dev.ir)
+### Tech Stack
 
----
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,php,js,html,css,arduino,opencv,linux,git,github,vscode,blender,threejs&perline=7" alt="Technology stack">
+  </a>
+</p>
 
-## Featured Projects
+### Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ✈️ ESP32 Plane FC
-
-**A twin-motor aircraft without servos or control surfaces.**
-
-A 61 g RC aircraft controlled through differential thrust, with an IMU-based flight controller and a wireless ground-station architecture.
-
-`C++` `ESP8266` `ESP32` `MPU6050` `PID`
-
-[Explore the project →](https://github.com/MML0/ESP32-Plane-FC)
-
-</td>
-<td width="50%" valign="top">
-
-### ◉ LiDAR Touch Tracking
-
-**Turning sensor data into physical interaction.**
-
-A real-time LiDAR-based touch and tracking system integrated with an LED wall to create an interactive game.
-
-`LiDAR` `Python` `TouchDesigner` `OSC`
-
-[Explore the project →](https://github.com/MML0/LiDAR-Touch-Tracking)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 TinyBuddy
-
-**A tiny device with character.**
-
-An embedded companion project exploring expressive animated faces, interaction, and personality on a small display.
-
-`C++` `Embedded Systems` `Display Animation`
-
-[Explore the project →](https://github.com/MML0/TinyBuddy)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎛️ AV Experience
-
-**Sound transformed into visuals.**
-
-A real-time, particle-based audio visualizer with interactive effects, customization, and frame capture.
-
-`Web Development` `Audio Visualization` `Creative Coding`
-
-[Explore the project →](https://github.com/MML0/AV_Experience)
-
-</td>
-</tr>
-</table>
-
-## Other Work
-
-| Project | What it explores |
+| Project | What it does |
 |---|---|
-| [Ticket Platform](https://github.com/MML0/ticket-platform) | Event ticketing and web application development |
-| [Photo Booth Kiosk](https://github.com/MML0/Photo-booth-kiosk-web) | Interactive kiosk software |
-| [Dayhim MediaHub](https://github.com/MML0/dayhim-mediahub) | Media and web development |
-| [Face Recognition](https://github.com/MML0/face_recognition) | Face recognition using machine learning in Python |
-| [Mofid Games](https://github.com/MML0/mofid-games) | Game development and experimentation |
-| [Yektanet Live Quiz](https://github.com/MML0/yektanet) | A live quiz game for an annual event |
-| [AutoLogin](https://github.com/MML0/AutoLogin) | Login automation |
-
-Projects evolve. Some are complete, others are prototypes or ongoing experiments. Visit each repository for its current implementation and documentation.
+| [ESP32 Plane FC](https://github.com/MML0/ESP32-Plane-FC) | Differential-thrust RC aircraft and custom flight controller |
+| [LiDAR Touch Tracking](https://github.com/MML0/LiDAR-Touch-Tracking) | Real-time tracking for interactive LED walls |
+| [TinyBuddy](https://github.com/MML0/TinyBuddy) | Animated OLED companion built with embedded C++ |
+| [AV Experience](https://github.com/MML0/AV_Experience) | Real-time audio-reactive visuals |
+| [Ticket Platform](https://github.com/MML0/ticket-platform) | Full-stack event ticketing platform |
 
 ---
 
-## Technical Interests
+<p align="center">
+  <i>Sense → Process → Control → Visualize → Interact</i>
+</p>
 
-**Embedded Systems & Electronics**  
-ESP32 · ESP8266 · Microcontrollers · Sensors · Motor Control · Wireless Communication
-
-**AI & Computer Vision**  
-Machine Learning · Object Detection · Face Recognition · Pose Estimation · Tracking
-
-**Creative Technology**  
-TouchDesigner · LiDAR Interaction · Real-Time Visualization · Projection Mapping · Interactive Installations
-
-**Software Engineering**  
-Python · C/C++ · PHP · JavaScript · TypeScript · Web Applications · APIs · Databases
-
-**Control & Signal Processing**  
-IMU Sensors · PID Control · Filtering · Real-Time Systems · Feedback Control
-
----
-
-## How I Build
-
-I like working at the intersection of disciplines: connecting sensors to software, algorithms to physical behavior, and creative ideas to working systems.
-
-My projects often involve the complete pipeline:
-
-**Sense → Process → Control → Visualize → Interact**
-
-I'm particularly interested in embedded intelligence, robotics, real-time systems, and new ways for people to interact with technology.
-
----
-
-## Let's Connect
-
-Have an interesting engineering problem, a creative technology project, or an idea worth prototyping?
-
-- **Portfolio:** [mml-dev.ir](https://mml-dev.ir/)
-- **LinkedIn:** [Mohamad Mahdi Latifi](https://www.linkedin.com/in/mohamad-mahdi-latifi-0b7aa0247/)
-- **Telegram:** [@mml_0](https://t.me/mml_0)
-- **Email:** [hi@mml-dev.ir](mailto:hi@mml-dev.ir)
-
-*Curiosity is the starting point. Building is how I explore it.*
+<p align="center">
+  <a href="https://github.com/MML0">GitHub</a> ·
+  <a href="https://mml-dev.ir">Portfolio</a>
+</p>
