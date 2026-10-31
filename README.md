@@ -17,6 +17,7 @@ I build across hardware and software — from flight controllers and LiDAR track
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,php,js,html,css,arduino,opencv,linux,git,github,vscode,blender,threejs&perline=7" alt="Technology stack">
   </a>
+  <img src="https://patchstorage.com/wp-content/uploads/2021/02/TouchDesigner_logo.png" title="TouchDesigner" alt="TouchDesigner" width="48" height="48"/>
 </p>
 
 ### Featured Projects
